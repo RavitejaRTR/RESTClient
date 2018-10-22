@@ -1,6 +1,5 @@
 package edu.fico.restdemo;
 
-import java.net.URL;
 import java.util.List;
 import java.util.Optional;
 
